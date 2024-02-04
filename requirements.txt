@@ -6,3 +6,4 @@ pydantic==1.10.11
 pinecone-client==3.0.2
 matplotlib==3.5.1
 plotly==5.18.0
+pandas==2.0.2
